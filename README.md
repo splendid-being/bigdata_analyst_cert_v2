@@ -4,7 +4,6 @@
 
 ## 🌱 도서 링크
 - [교보문고](), [yes24]()
-<img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="40%" height="40%"/>
 
 ## 🌱 정오표:
 - https://bit.ly/41SQB3x
