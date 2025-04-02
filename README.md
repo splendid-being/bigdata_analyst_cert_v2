@@ -1,6 +1,3 @@
-# bigdata_analyst_cert_v2
-### 개정판(2판) 준비중
-
 # [퇴근후딴짓] 2025 빅데이터 분석기사 실기(개정판) - 길벗 시나공 시리즈
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
