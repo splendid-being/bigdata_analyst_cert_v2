@@ -50,9 +50,13 @@
 │   └── ch3
 │       ├── ch3_ex_type1.ipynb (코드)
 │       ├── delivery_time.csv
+│       ├── monthly_sales.csv
+│       ├── region_sales.csv
+│       ├── sales.csv
 │       ├── school_data.csv
 │       ├── school_data_science.csv
 │       ├── school_data_social.csv
+│       ├── store_sales.csv
 │       ├── type1_data1.csv
 │       └── type1_data2.csv
 ├── part2 (작업형2)
