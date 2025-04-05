@@ -169,18 +169,28 @@
     │   ├── stock_market.csv
     │   ├── student_assessment.csv
     │   └── system_cpu.csv
-    └── ch8
-        ├── chem.csv
-        ├── churn.csv
-        ├── churn_test.csv
-        ├── churn_train.csv
-        ├── customer_travel.csv
-        ├── drinks.csv
-        ├── p8_type1.ipynb (작업형1 코드)
-        ├── p8_type2.ipynb (작업형2 코드)
-        ├── p8_type3.ipynb (작업형3 코드)
-        ├── piq.csv
-        └── tourist.csv
+    ├── ch8
+    │   ├── chem.csv
+    │   ├── churn.csv
+    │   ├── churn_test.csv
+    │   ├── churn_train.csv
+    │   ├── drinks.csv
+    │   ├── p8_type1.ipynb (작업형1 코드)
+    │   ├── p8_type2.ipynb (작업형2 코드)
+    │   ├── p8_type3.ipynb (작업형3 코드)
+    │   ├── piq.csv
+    │   └── tourist.csv
+    └── ch9
+        ├── crime.csv
+        ├── design.csv
+        ├── farm_test.csv
+        ├── farm_train.csv
+        ├── hr.csv
+        ├── loan.csv
+        ├── p9_type1.ipynb (작업형1 코드)
+        ├── p9_type2.ipynb (작업형2 코드)
+        ├── p9_type3.ipynb (작업형3 코드)
+        └── retention.csv
 ```
 
 이 레포지토리에 실린 모든 내용의 저작권은 저자에게 있으며, 저자의 허락 없이 이 코드의 일부 또는 전부를 복제, 배포할 수 없습니다.
