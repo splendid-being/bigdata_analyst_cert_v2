@@ -42,7 +42,7 @@
 ```text
 .
 ├── README.md
-├── part1 (작업형1)
+├── part1
 │   ├── ch1
 │   │   └── ch1_python.ipynb (코드)
 │   ├── ch2
@@ -59,7 +59,7 @@
 │       ├── store_sales.csv
 │       ├── type1_data1.csv
 │       └── type1_data2.csv
-├── part2 (작업형2)
+├── part2
 │   ├── ch2
 │   │   ├── ch2_classification.ipynb (코드)
 │   │   ├── test.csv
@@ -98,7 +98,7 @@
 │       ├── flight_train.csv
 │       ├── laptop_test.csv
 │       └── laptop_train.csv
-├── part3 (작업형3)
+├── part3
 │   ├── ch1
 │   │   └── ch1_hypothesis_testing.ipynb (코드)
 │   ├── ch2
@@ -117,7 +117,7 @@
 │       ├── ch6_ex_type3.ipynb (코드)
 │       ├── math.csv
 │       └── tomato2.csv
-└── part4 (기출유형)
+└── part4
     ├── ch2
     │   ├── X_test.csv
     │   ├── X_train.csv
