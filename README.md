@@ -2,6 +2,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+## 초판 완판에 힘입어 개정판을 출간하게 되었습니다. 진심으로 감사합니다! 🙇🏼‍♂️
+
 ## 🌱 도서 링크
 - [교보문고](), [yes24]()
 
