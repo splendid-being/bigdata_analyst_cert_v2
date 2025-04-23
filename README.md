@@ -9,7 +9,7 @@
 - 🔥 작업형1 연습 문제 추가: 최신 출제 경향을 반영한 작업형1 문제를 새롭게 추가해, 실기 시험 대비를 더욱 탄탄하게 함
   
 ### 🌱 도서 링크
-- [교보문고](), [yes24]()
+- [교보문고](https://product.kyobobook.co.kr/detail/S000216355151), [yes24](https://www.yes24.com/product/goods/145638676)
 
 ### 🌱 정오표:
 - https://bit.ly/41SQB3x
