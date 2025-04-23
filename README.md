@@ -1,4 +1,4 @@
-# [퇴근후딴짓] 2025 빅데이터 분석기사 실기(개정판) - 길벗 시나공 시리즈
+# [퇴근후딴짓] 2026 빅데이터 분석기사 실기(개정판) - 길벗 시나공 시리즈
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
