@@ -13,7 +13,7 @@
 
 ### 🌱 강의 링크
 - 유튜브(무료): [링크](https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-&si=TssmZSX6UTBdKw5C)
-- 인프런 강의: [링크](https://inf.run/XnzT) 입문자에게는 강의를 추천드립니다. 
+- 인프런 강의: [링크](https://inf.run/XnzT) (입문자에게는 강의 추천)
 
 ### 🌱 정오표:
 - https://bit.ly/41SQB3x
