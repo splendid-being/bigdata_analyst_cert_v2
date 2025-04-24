@@ -11,6 +11,10 @@
 ### 🌱 도서 링크
 - [교보문고](https://product.kyobobook.co.kr/detail/S000216355151), [yes24](https://www.yes24.com/product/goods/145638676)
 
+### 🌱 강의 링크
+- 유튜브(무료): [링크](https://youtube.com/playlist?list=PLSlDi2AkDv82Qv7B3WiWypQSFmOCb-G_-&si=TssmZSX6UTBdKw5C)
+- 인프런 강의: [링크](https://inf.run/XnzT) 입문자에게는 강의를 추천드립니다. 
+
 ### 🌱 정오표:
 - https://bit.ly/41SQB3x
 
