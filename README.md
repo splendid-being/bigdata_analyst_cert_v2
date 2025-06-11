@@ -2,8 +2,9 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-## 👑 ver.2025 예시문제 풀이 코드
-[체험 예시문제](https://www.kaggle.com/code/agileteam/t3-ex-ver2025-py)
+### 👑 ver.2025 예시문제 풀이 코드
+- [체험 예시문제](https://www.kaggle.com/code/agileteam/t3-ex-ver2025-py)
+
 
 > ✨✨✨ **초판 완판**에 힘입어 개정판을 출간하게 되었습니다. 진심으로 감사합니다! 🙇🏼‍♂️ ✨✨✨
 ### ✅ 개정판에서 보완된 점
