@@ -2,12 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-### ⭐ 10회 기출 문제 풀이 영상
-- [10회 기출 문제 풀이 영상 [퇴근후딴짓] 2026 빅데이터 분석기사 실기 - 길벗 시나공 시리즈
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
-### 🎦 10회 기출 문제 풀이 영상 (11회 준비용)
+### ⭐ 10회 기출 문제 풀이 영상 (11회 준비용)
 - [10회 기출 문제 풀이 영상](https://www.youtube.com/watch?v=TT7QmjIsGek)
 
 ### 👑 ver.2025 예시문제 풀이 코드
